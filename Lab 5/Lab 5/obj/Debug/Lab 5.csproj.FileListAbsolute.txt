@@ -1,0 +1,21 @@
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.AssemblyReference.cache
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\obj\Debug\Lab5.Form1.resources
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.cache
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+C:\Users\Anika\Desktop\EC447 Lab Assignments\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.AssemblyReference.cache
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.SuggestedBindingRedirects.cache
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\obj\Debug\Lab5.Form1.resources
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\obj\Debug\Lab5.Properties.Resources.resources
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.cache
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+C:\Personal Data\Boston University\EC447 (Summer 21)\Lab 5\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
